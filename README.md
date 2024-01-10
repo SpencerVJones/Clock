@@ -1,2 +1,2 @@
 # Clock
-Simple Customizable Clock 
+Customizable Clock 
