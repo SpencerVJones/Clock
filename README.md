@@ -1,5 +1,6 @@
-# Clock
-Customizable Clock 
+# Clock GUI
+A sleek and customizable Java Swing application designed to provide users with a stylish digital clock display. Beyond just telling time, ClockGUI offers an array of customization options, allowing users to tailor the appearance of the clock to their liking. With features like adjustable font styles, sizes, and colors, along with the ability to transform text case, this application ensures that your desktop clock not only keeps you punctual but also complements your personal aesthetic.
+
 
 # Features
 
@@ -10,7 +11,7 @@ Customizable Clock
   - Font family
   - Font size
   - Text style (bold/italic)
-- Day and date text conversion between uppercase and lowercase.
+  - Day and date text conversion between uppercase and lowercase.
 
 ## Usage
 
