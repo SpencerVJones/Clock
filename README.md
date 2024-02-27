@@ -20,11 +20,6 @@ A sleek and customizable Java Swing application designed to provide users with a
 3. Run the `Main` class to launch the application.
 4. Use the menus to customize the appearance of the clock as desired.
 
-## Dependencies
-
-- FlatLaf: A modern Swing Look and Feel library for Java applications.
-- Mockito: A mocking framework for unit tests in Java.
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub.
